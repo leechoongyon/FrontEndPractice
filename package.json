@@ -1,0 +1,23 @@
+{
+  "name": "javascriptpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leechoongyon/JavaScriptPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leechoongyon/JavaScriptPractice/issues"
+  },
+  "homepage": "https://github.com/leechoongyon/JavaScriptPractice#readme"
+}
